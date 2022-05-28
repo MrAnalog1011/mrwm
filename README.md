@@ -2,6 +2,16 @@
 
 ## Note: remember to uninstall module after you are done with practical
 
+
+### Install Module
+```python
+!pip install mrwm
+```
+### Uninstall Module
+```python
+!pip uninstall mrwm
+```
+
 ### For Code
 ```python
 import mrwm
