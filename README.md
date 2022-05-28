@@ -3,7 +3,7 @@
 ## Note:
 
 * #### Remember to uninstall module after you are done with practical
-* #### For practical 5 the linke will directly download the docx file
+* #### For practical 5 the link will directly download the docx file
 
 #
 
