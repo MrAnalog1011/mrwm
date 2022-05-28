@@ -1,5 +1,6 @@
 # mrwm
 
+## Note: remember to uninstall module after you are done with practical
 
 ### For Code
 ```python
@@ -25,7 +26,7 @@ output:
 <code as an output>
 ```
 
-### For Decryption
+### For Description
 ```python
 import mrwm
 mrwm.desc()
